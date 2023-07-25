@@ -6,9 +6,9 @@
 
 
 ## GitHub Stats 📈
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?indahdewi=pasyabill&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?indahdewi91=pasyabill&layout=compact&theme=radical)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=indahdewi&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=indahdewi91&show_icons=true&theme=radical)
 
 
 
@@ -17,8 +17,8 @@
 **📫 Reach me at :**<br>
 
 
-[![GitHub: pasyabill](https://img.shields.io/github/followers/pasyabill?label=indahdewi&style=social)](https://github.com/indahdewi)
+[![GitHub: pasyabill](https://img.shields.io/github/followers/pasyabill?label=indahdewi91&style=social)](https://github.com/indahdewi91)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=indahdewi.visitor-badge)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=indahdewi91.visitor-badge)
 
 </div>  
