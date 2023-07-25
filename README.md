@@ -6,7 +6,7 @@
 
 
 ## GitHub Stats 📈
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?indahdewi91=pasyabill&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?indahdewi91=indahdewi91&layout=compact&theme=radical)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=indahdewi91&show_icons=true&theme=radical)
 
@@ -22,3 +22,4 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=indahdewi91.visitor-badge)
 
 </div>  
+
