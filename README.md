@@ -17,7 +17,7 @@
 **📫 Reach me at :**<br>
 
 
-[![GitHub: pasyabill](https://img.shields.io/github/followers/indahdewi91?label=indahdewi91&style=social)](https://github.com/indahdewi91)
+[![GitHub: indahdewi91](https://img.shields.io/github/followers/indahdewi91?label=indahdewi91&style=social)](https://github.com/indahdewi91)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=indahdewi91.visitor-badge)
 
